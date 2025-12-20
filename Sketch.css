@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+  }
+nav{
+    background-color: rgb(255, 203, 6);
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+
+a{
+    color: white;
+        text-decoration: none;
+   
+
+}
+a:hover{
+    color: white;
+}
+.backImg{
+background-image: url(Hand.jpg);
+height: 895px;
+background-size: contain;
+background-position: center;
+}
